@@ -18,7 +18,7 @@
 ### Tech Stack
 ```typescript
 const skills = {
-  frontend: ["React", "Next.js", "TypeScript", "Tailwind", Flutter],
+  frontend: ["React", "Next.js", "TypeScript", "Tailwind", "Flutter"],
   backend: ["Java", "Spring Boot", "Node.js", "REST APIs", "Python"],
   data: ["PostgreSQL", "MongoDB", "Prisma", "Redis"],
   cloud: ["GCP Cloud Run", "Cloud SQL", "Docker", "CI/CD"],
